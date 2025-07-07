@@ -1,0 +1,109 @@
+BIWI/wav_trim/M1_40.wav|{AH0 N D   AY1   L UH1 K   F AO1 R W ER0 D   T UW1   SH EH1 R IH0 NG   DH AE1 T   G R EY1 T   L AY1 F   W IH1 DH   Y UW1   .   TH AE1 NG K   Y UW1   F AO1 R   M EH1 R IY0 IH0 NG   M IY1   .}|M1
+BIWI/wav_trim/F3_39.wav|{D IH1 D   AY1   S AE1 K R AH0 F AY2 S   EH1 V ER0 IY0   B IH1 T   AH1 V   L AH1 V   IH0 N   DH IH1 S   L AY1 F   B IH0 K AO1 Z   AY1   K IH1 L D   AW1 ER0   L IH1 T AH0 L   B R AH1 DH ER0   ?}|F3
+BIWI/wav_trim/M4_35.wav|{K AE1 N   Y UW1   D AY1   AH1 V   HH AE1 P IY0 N AH0 S   ?}|M4
+BIWI/wav_trim/F8_39.wav|{D IH1 D   AY1   S AE1 K R AH0 F AY2 S   EH1 V ER0 IY0   B IH1 T   AH1 V   L AH1 V   IH0 N   DH IH1 S   L AY1 F   B IH0 K AO1 Z   AY1   K IH1 L D   AW1 ER0   L IH1 T AH0 L   B R AH1 DH ER0   ?}|F8
+BIWI/wav_trim/F1_33.wav|{B AH1 T   HH IY1   S EH1 Z   Y UW1   P L EY1   S OW1   W EH1 L   !}|F1
+BIWI/wav_trim/F8_33.wav|{B AH1 T   HH IY1   S EH1 Z   Y UW1   P L EY1   S OW1   W EH1 L   !}|F8
+BIWI/wav_trim/M2_36.wav|{HH EH1 V AH0 N   AH0 N D   ER1 TH   !   AA1 R   DH AH0   SH EY1 D Z   AH1 V   P EH1 M B ER0 L IY0   T UW1   B IY1   DH AH1 S   P AH0 L UW1 T AH0 D   ?   N AW1   T EH1 L   M IY1   W AH1 N S   AH0 N D   F AO1 R   AO1 L   ,   AA1 R   Y UW1   EH0 N G EY1 JH D   T UW1   HH IH1 M   ?}|M2
+BIWI/wav_trim/F7_40.wav|{AH0 N D   AY1   L UH1 K   F AO1 R W ER0 D   T UW1   SH EH1 R IH0 NG   DH AE1 T   G R EY1 T   L AY1 F   W IH1 DH   Y UW1   .   TH AE1 NG K   Y UW1   F AO1 R   M EH1 R IY0 IH0 NG   M IY1   .}|F7
+BIWI/wav_trim/F7_38.wav|{AY1   S P AH0 S IH1 F IH0 K L IY0   R IY0 M AY1 N D AH0 D   HH ER0   B EH1 D S AY2 D   T EY1 B AH0 L   .   AA1 N   DH AH0   K AE2 NG G ER0 UW1   .}|F7
+BIWI/wav_trim/F5_40.wav|{AH0 N D   AY1   L UH1 K   F AO1 R W ER0 D   T UW1   SH EH1 R IH0 NG   DH AE1 T   G R EY1 T   L AY1 F   W IH1 DH   Y UW1   .   TH AE1 NG K   Y UW1   F AO1 R   M EH1 R IY0 IH0 NG   M IY1   .}|F5
+BIWI/wav_trim/M1_33.wav|{B AH1 T   HH IY1   S EH1 Z   Y UW1   P L EY1   S OW1   W EH1 L   !}|M1
+BIWI/wav_trim/M4_39.wav|{D IH1 D   AY1   S AE1 K R AH0 F AY2 S   EH1 V ER0 IY0   B IH1 T   AH1 V   L AH1 V   IH0 N   DH IH1 S   L AY1 F   B IH0 K AO1 Z   AY1   K IH1 L D   AW1 ER0   L IH1 T AH0 L   B R AH1 DH ER0   ?}|M4
+BIWI/wav_trim/M2_33.wav|{B AH1 T   HH IY1   S EH1 Z   Y UW1   P L EY1   S OW1   W EH1 L   !}|M2
+BIWI/wav_trim/F6_34.wav|{IH1 T   IH1 Z   DH AH0   M OW1 S T   D R EH1 D F AH0 L   N UW1 Z   .   L IH1 D IY0 AH0   HH AE1 Z   R AH1 N   AH0 W EY1   W IH1 DH   M IH1 S T ER0   W IH1 K AH0 M   .}|F6
+BIWI/wav_trim/M5_36.wav|{HH EH1 V AH0 N   AH0 N D   ER1 TH   !   AA1 R   DH AH0   SH EY1 D Z   AH1 V   P EH1 M B ER0 L IY0   T UW1   B IY1   DH AH1 S   P AH0 L UW1 T AH0 D   ?   N AW1   T EH1 L   M IY1   W AH1 N S   AH0 N D   F AO1 R   AO1 L   ,   AA1 R   Y UW1   EH0 N G EY1 JH D   T UW1   HH IH1 M   ?}|M5
+BIWI/wav_trim/F3_35.wav|{K AE1 N   Y UW1   D AY1   AH1 V   HH AE1 P IY0 N AH0 S   ?}|F3
+BIWI/wav_trim/M3_35.wav|{K AE1 N   Y UW1   D AY1   AH1 V   HH AE1 P IY0 N AH0 S   ?}|M3
+BIWI/wav_trim/M2_38.wav|{AY1   S P AH0 S IH1 F IH0 K L IY0   R IY0 M AY1 N D AH0 D   HH ER0   B EH1 D S AY2 D   T EY1 B AH0 L   .   AA1 N   DH AH0   K AE2 NG G ER0 UW1   .}|M2
+BIWI/wav_trim/M3_38.wav|{AY1   S P AH0 S IH1 F IH0 K L IY0   R IY0 M AY1 N D AH0 D   HH ER0   B EH1 D S AY2 D   T EY1 B AH0 L   .   AA1 N   DH AH0   K AE2 NG G ER0 UW1   .}|M3
+BIWI/wav_trim/M3_37.wav|{W AH1 T   AE1 N   EH1 K S AH0 L AH0 N T   R UW1 M   Y UW1   HH AE1 V   ,   S ER1   .   S AH1 CH   IH0 K S P EH1 N S IH0 V   F ER1 N IH0 SH IH0 NG Z   !}|M3
+BIWI/wav_trim/F6_38.wav|{AY1   S P AH0 S IH1 F IH0 K L IY0   R IY0 M AY1 N D AH0 D   HH ER0   B EH1 D S AY2 D   T EY1 B AH0 L   .   AA1 N   DH AH0   K AE2 NG G ER0 UW1   .}|F6
+BIWI/wav_trim/M5_34.wav|{IH1 T   IH1 Z   DH AH0   M OW1 S T   D R EH1 D F AH0 L   N UW1 Z   .   L IH1 D IY0 AH0   HH AE1 Z   R AH1 N   AH0 W EY1   W IH1 DH   M IH1 S T ER0   W IH1 K AH0 M   .}|M5
+BIWI/wav_trim/F6_35.wav|{K AE1 N   Y UW1   D AY1   AH1 V   HH AE1 P IY0 N AH0 S   ?}|F6
+BIWI/wav_trim/F8_36.wav|{HH EH1 V AH0 N   AH0 N D   ER1 TH   !   AA1 R   DH AH0   SH EY1 D Z   AH1 V   P EH1 M B ER0 L IY0   T UW1   B IY1   DH AH1 S   P AH0 L UW1 T AH0 D   ?   N AW1   T EH1 L   M IY1   W AH1 N S   AH0 N D   F AO1 R   AO1 L   ,   AA1 R   Y UW1   EH0 N G EY1 JH D   T UW1   HH IH1 M   ?}|F8
+BIWI/wav_trim/M4_33.wav|{B AH1 T   HH IY1   S EH1 Z   Y UW1   P L EY1   S OW1   W EH1 L   !}|M4
+BIWI/wav_trim/F5_38.wav|{AY1   S P AH0 S IH1 F IH0 K L IY0   R IY0 M AY1 N D AH0 D   HH ER0   B EH1 D S AY2 D   T EY1 B AH0 L   .   AA1 N   DH AH0   K AE2 NG G ER0 UW1   .}|F5
+BIWI/wav_trim/M3_34.wav|{IH1 T   IH1 Z   DH AH0   M OW1 S T   D R EH1 D F AH0 L   N UW1 Z   .   L IH1 D IY0 AH0   HH AE1 Z   R AH1 N   AH0 W EY1   W IH1 DH   M IH1 S T ER0   W IH1 K AH0 M   .}|M3
+BIWI/wav_trim/M5_37.wav|{W AH1 T   AE1 N   EH1 K S AH0 L AH0 N T   R UW1 M   Y UW1   HH AE1 V   ,   S ER1   .   S AH1 CH   IH0 K S P EH1 N S IH0 V   F ER1 N IH0 SH IH0 NG Z   !}|M5
+BIWI/wav_trim/M1_37.wav|{W AH1 T   AE1 N   EH1 K S AH0 L AH0 N T   R UW1 M   Y UW1   HH AE1 V   ,   S ER1   .   S AH1 CH   IH0 K S P EH1 N S IH0 V   F ER1 N IH0 SH IH0 NG Z   !}|M1
+BIWI/wav_trim/F8_38.wav|{AY1   S P AH0 S IH1 F IH0 K L IY0   R IY0 M AY1 N D AH0 D   HH ER0   B EH1 D S AY2 D   T EY1 B AH0 L   .   AA1 N   DH AH0   K AE2 NG G ER0 UW1   .}|F8
+BIWI/wav_trim/F4_37.wav|{W AH1 T   AE1 N   EH1 K S AH0 L AH0 N T   R UW1 M   Y UW1   HH AE1 V   ,   S ER1   .   S AH1 CH   IH0 K S P EH1 N S IH0 V   F ER1 N IH0 SH IH0 NG Z   !}|F4
+BIWI/wav_trim/M6_40.wav|{AH0 N D   AY1   L UH1 K   F AO1 R W ER0 D   T UW1   SH EH1 R IH0 NG   DH AE1 T   G R EY1 T   L AY1 F   W IH1 DH   Y UW1   .   TH AE1 NG K   Y UW1   F AO1 R   M EH1 R IY0 IH0 NG   M IY1   .}|M6
+BIWI/wav_trim/M4_34.wav|{IH1 T   IH1 Z   DH AH0   M OW1 S T   D R EH1 D F AH0 L   N UW1 Z   .   L IH1 D IY0 AH0   HH AE1 Z   R AH1 N   AH0 W EY1   W IH1 DH   M IH1 S T ER0   W IH1 K AH0 M   .}|M4
+BIWI/wav_trim/M2_34.wav|{IH1 T   IH1 Z   DH AH0   M OW1 S T   D R EH1 D F AH0 L   N UW1 Z   .   L IH1 D IY0 AH0   HH AE1 Z   R AH1 N   AH0 W EY1   W IH1 DH   M IH1 S T ER0   W IH1 K AH0 M   .}|M2
+BIWI/wav_trim/F1_40.wav|{AH0 N D   AY1   L UH1 K   F AO1 R W ER0 D   T UW1   SH EH1 R IH0 NG   DH AE1 T   G R EY1 T   L AY1 F   W IH1 DH   Y UW1   .   TH AE1 NG K   Y UW1   F AO1 R   M EH1 R IY0 IH0 NG   M IY1   .}|F1
+BIWI/wav_trim/M3_33.wav|{B AH1 T   HH IY1   S EH1 Z   Y UW1   P L EY1   S OW1   W EH1 L   !}|M3
+BIWI/wav_trim/M5_40.wav|{AH0 N D   AY1   L UH1 K   F AO1 R W ER0 D   T UW1   SH EH1 R IH0 NG   DH AE1 T   G R EY1 T   L AY1 F   W IH1 DH   Y UW1   .   TH AE1 NG K   Y UW1   F AO1 R   M EH1 R IY0 IH0 NG   M IY1   .}|M5
+BIWI/wav_trim/F1_38.wav|{AY1   S P AH0 S IH1 F IH0 K L IY0   R IY0 M AY1 N D AH0 D   HH ER0   B EH1 D S AY2 D   T EY1 B AH0 L   .   AA1 N   DH AH0   K AE2 NG G ER0 UW1   .}|F1
+BIWI/wav_trim/M2_35.wav|{K AE1 N   Y UW1   D AY1   AH1 V   HH AE1 P IY0 N AH0 S   ?}|M2
+BIWI/wav_trim/M6_33.wav|{B AH1 T   HH IY1   S EH1 Z   Y UW1   P L EY1   S OW1   W EH1 L   !}|M6
+BIWI/wav_trim/M5_33.wav|{B AH1 T   HH IY1   S EH1 Z   Y UW1   P L EY1   S OW1   W EH1 L   !}|M5
+BIWI/wav_trim/F3_38.wav|{AY1   S P AH0 S IH1 F IH0 K L IY0   R IY0 M AY1 N D AH0 D   HH ER0   B EH1 D S AY2 D   T EY1 B AH0 L   .   AA1 N   DH AH0   K AE2 NG G ER0 UW1   .}|F3
+BIWI/wav_trim/M6_38.wav|{AY1   S P AH0 S IH1 F IH0 K L IY0   R IY0 M AY1 N D AH0 D   HH ER0   B EH1 D S AY2 D   T EY1 B AH0 L   .   AA1 N   DH AH0   K AE2 NG G ER0 UW1   .}|M6
+BIWI/wav_trim/M4_40.wav|{AH0 N D   AY1   L UH1 K   F AO1 R W ER0 D   T UW1   SH EH1 R IH0 NG   DH AE1 T   G R EY1 T   L AY1 F   W IH1 DH   Y UW1   .   TH AE1 NG K   Y UW1   F AO1 R   M EH1 R IY0 IH0 NG   M IY1   .}|M4
+BIWI/wav_trim/F8_40.wav|{AH0 N D   AY1   L UH1 K   F AO1 R W ER0 D   T UW1   SH EH1 R IH0 NG   DH AE1 T   G R EY1 T   L AY1 F   W IH1 DH   Y UW1   .   TH AE1 NG K   Y UW1   F AO1 R   M EH1 R IY0 IH0 NG   M IY1   .}|F8
+BIWI/wav_trim/F5_36.wav|{HH EH1 V AH0 N   AH0 N D   ER1 TH   !   AA1 R   DH AH0   SH EY1 D Z   AH1 V   P EH1 M B ER0 L IY0   T UW1   B IY1   DH AH1 S   P AH0 L UW1 T AH0 D   ?   N AW1   T EH1 L   M IY1   W AH1 N S   AH0 N D   F AO1 R   AO1 L   ,   AA1 R   Y UW1   EH0 N G EY1 JH D   T UW1   HH IH1 M   ?}|F5
+BIWI/wav_trim/M1_36.wav|{HH EH1 V AH0 N   AH0 N D   ER1 TH   !   AA1 R   DH AH0   SH EY1 D Z   AH1 V   P EH1 M B ER0 L IY0   T UW1   B IY1   DH AH1 S   P AH0 L UW1 T AH0 D   ?   N AW1   T EH1 L   M IY1   W AH1 N S   AH0 N D   F AO1 R   AO1 L   ,   AA1 R   Y UW1   EH0 N G EY1 JH D   T UW1   HH IH1 M   ?}|M1
+BIWI/wav_trim/F2_39.wav|{D IH1 D   AY1   S AE1 K R AH0 F AY2 S   EH1 V ER0 IY0   B IH1 T   AH1 V   L AH1 V   IH0 N   DH IH1 S   L AY1 F   B IH0 K AO1 Z   AY1   K IH1 L D   AW1 ER0   L IH1 T AH0 L   B R AH1 DH ER0   ?}|F2
+BIWI/wav_trim/M2_40.wav|{AH0 N D   AY1   L UH1 K   F AO1 R W ER0 D   T UW1   SH EH1 R IH0 NG   DH AE1 T   G R EY1 T   L AY1 F   W IH1 DH   Y UW1   .   TH AE1 NG K   Y UW1   F AO1 R   M EH1 R IY0 IH0 NG   M IY1   .}|M2
+BIWI/wav_trim/M6_37.wav|{W AH1 T   AE1 N   EH1 K S AH0 L AH0 N T   R UW1 M   Y UW1   HH AE1 V   ,   S ER1   .   S AH1 CH   IH0 K S P EH1 N S IH0 V   F ER1 N IH0 SH IH0 NG Z   !}|M6
+BIWI/wav_trim/M3_39.wav|{D IH1 D   AY1   S AE1 K R AH0 F AY2 S   EH1 V ER0 IY0   B IH1 T   AH1 V   L AH1 V   IH0 N   DH IH1 S   L AY1 F   B IH0 K AO1 Z   AY1   K IH1 L D   AW1 ER0   L IH1 T AH0 L   B R AH1 DH ER0   ?}|M3
+BIWI/wav_trim/M6_34.wav|{IH1 T   IH1 Z   DH AH0   M OW1 S T   D R EH1 D F AH0 L   N UW1 Z   .   L IH1 D IY0 AH0   HH AE1 Z   R AH1 N   AH0 W EY1   W IH1 DH   M IH1 S T ER0   W IH1 K AH0 M   .}|M6
+BIWI/wav_trim/F4_38.wav|{AY1   S P AH0 S IH1 F IH0 K L IY0   R IY0 M AY1 N D AH0 D   HH ER0   B EH1 D S AY2 D   T EY1 B AH0 L   .   AA1 N   DH AH0   K AE2 NG G ER0 UW1   .}|F4
+BIWI/wav_trim/F1_35.wav|{K AE1 N   Y UW1   D AY1   AH1 V   HH AE1 P IY0 N AH0 S   ?}|F1
+BIWI/wav_trim/F8_35.wav|{K AE1 N   Y UW1   D AY1   AH1 V   HH AE1 P IY0 N AH0 S   ?}|F8
+BIWI/wav_trim/F6_40.wav|{AH0 N D   AY1   L UH1 K   F AO1 R W ER0 D   T UW1   SH EH1 R IH0 NG   DH AE1 T   G R EY1 T   L AY1 F   W IH1 DH   Y UW1   .   TH AE1 NG K   Y UW1   F AO1 R   M EH1 R IY0 IH0 NG   M IY1   .}|F6
+BIWI/wav_trim/F4_39.wav|{D IH1 D   AY1   S AE1 K R AH0 F AY2 S   EH1 V ER0 IY0   B IH1 T   AH1 V   L AH1 V   IH0 N   DH IH1 S   L AY1 F   B IH0 K AO1 Z   AY1   K IH1 L D   AW1 ER0   L IH1 T AH0 L   B R AH1 DH ER0   ?}|F4
+BIWI/wav_trim/F2_36.wav|{HH EH1 V AH0 N   AH0 N D   ER1 TH   !   AA1 R   DH AH0   SH EY1 D Z   AH1 V   P EH1 M B ER0 L IY0   T UW1   B IY1   DH AH1 S   P AH0 L UW1 T AH0 D   ?   N AW1   T EH1 L   M IY1   W AH1 N S   AH0 N D   F AO1 R   AO1 L   ,   AA1 R   Y UW1   EH0 N G EY1 JH D   T UW1   HH IH1 M   ?}|F2
+BIWI/wav_trim/F7_33.wav|{B AH1 T   HH IY1   S EH1 Z   Y UW1   P L EY1   S OW1   W EH1 L   !}|F7
+BIWI/wav_trim/F3_34.wav|{IH1 T   IH1 Z   DH AH0   M OW1 S T   D R EH1 D F AH0 L   N UW1 Z   .   L IH1 D IY0 AH0   HH AE1 Z   R AH1 N   AH0 W EY1   W IH1 DH   M IH1 S T ER0   W IH1 K AH0 M   .}|F3
+BIWI/wav_trim/F4_36.wav|{HH EH1 V AH0 N   AH0 N D   ER1 TH   !   AA1 R   DH AH0   SH EY1 D Z   AH1 V   P EH1 M B ER0 L IY0   T UW1   B IY1   DH AH1 S   P AH0 L UW1 T AH0 D   ?   N AW1   T EH1 L   M IY1   W AH1 N S   AH0 N D   F AO1 R   AO1 L   ,   AA1 R   Y UW1   EH0 N G EY1 JH D   T UW1   HH IH1 M   ?}|F4
+BIWI/wav_trim/F4_34.wav|{IH1 T   IH1 Z   DH AH0   M OW1 S T   D R EH1 D F AH0 L   N UW1 Z   .   L IH1 D IY0 AH0   HH AE1 Z   R AH1 N   AH0 W EY1   W IH1 DH   M IH1 S T ER0   W IH1 K AH0 M   .}|F4
+BIWI/wav_trim/M5_39.wav|{D IH1 D   AY1   S AE1 K R AH0 F AY2 S   EH1 V ER0 IY0   B IH1 T   AH1 V   L AH1 V   IH0 N   DH IH1 S   L AY1 F   B IH0 K AO1 Z   AY1   K IH1 L D   AW1 ER0   L IH1 T AH0 L   B R AH1 DH ER0   ?}|M5
+BIWI/wav_trim/F5_39.wav|{D IH1 D   AY1   S AE1 K R AH0 F AY2 S   EH1 V ER0 IY0   B IH1 T   AH1 V   L AH1 V   IH0 N   DH IH1 S   L AY1 F   B IH0 K AO1 Z   AY1   K IH1 L D   AW1 ER0   L IH1 T AH0 L   B R AH1 DH ER0   ?}|F5
+BIWI/wav_trim/M2_37.wav|{W AH1 T   AE1 N   EH1 K S AH0 L AH0 N T   R UW1 M   Y UW1   HH AE1 V   ,   S ER1   .   S AH1 CH   IH0 K S P EH1 N S IH0 V   F ER1 N IH0 SH IH0 NG Z   !}|M2
+BIWI/wav_trim/F3_40.wav|{AH0 N D   AY1   L UH1 K   F AO1 R W ER0 D   T UW1   SH EH1 R IH0 NG   DH AE1 T   G R EY1 T   L AY1 F   W IH1 DH   Y UW1   .   TH AE1 NG K   Y UW1   F AO1 R   M EH1 R IY0 IH0 NG   M IY1   .}|F3
+BIWI/wav_trim/M4_37.wav|{W AH1 T   AE1 N   EH1 K S AH0 L AH0 N T   R UW1 M   Y UW1   HH AE1 V   ,   S ER1   .   S AH1 CH   IH0 K S P EH1 N S IH0 V   F ER1 N IH0 SH IH0 NG Z   !}|M4
+BIWI/wav_trim/F7_36.wav|{HH EH1 V AH0 N   AH0 N D   ER1 TH   !   AA1 R   DH AH0   SH EY1 D Z   AH1 V   P EH1 M B ER0 L IY0   T UW1   B IY1   DH AH1 S   P AH0 L UW1 T AH0 D   ?   N AW1   T EH1 L   M IY1   W AH1 N S   AH0 N D   F AO1 R   AO1 L   ,   AA1 R   Y UW1   EH0 N G EY1 JH D   T UW1   HH IH1 M   ?}|F7
+BIWI/wav_trim/M1_38.wav|{AY1   S P AH0 S IH1 F IH0 K L IY0   R IY0 M AY1 N D AH0 D   HH ER0   B EH1 D S AY2 D   T EY1 B AH0 L   .   AA1 N   DH AH0   K AE2 NG G ER0 UW1   .}|M1
+BIWI/wav_trim/F8_34.wav|{IH1 T   IH1 Z   DH AH0   M OW1 S T   D R EH1 D F AH0 L   N UW1 Z   .   L IH1 D IY0 AH0   HH AE1 Z   R AH1 N   AH0 W EY1   W IH1 DH   M IH1 S T ER0   W IH1 K AH0 M   .}|F8
+BIWI/wav_trim/F2_40.wav|{AH0 N D   AY1   L UH1 K   F AO1 R W ER0 D   T UW1   SH EH1 R IH0 NG   DH AE1 T   G R EY1 T   L AY1 F   W IH1 DH   Y UW1   .   TH AE1 NG K   Y UW1   F AO1 R   M EH1 R IY0 IH0 NG   M IY1   .}|F2
+BIWI/wav_trim/M6_35.wav|{K AE1 N   Y UW1   D AY1   AH1 V   HH AE1 P IY0 N AH0 S   ?}|M6
+BIWI/wav_trim/F6_39.wav|{D IH1 D   AY1   S AE1 K R AH0 F AY2 S   EH1 V ER0 IY0   B IH1 T   AH1 V   L AH1 V   IH0 N   DH IH1 S   L AY1 F   B IH0 K AO1 Z   AY1   K IH1 L D   AW1 ER0   L IH1 T AH0 L   B R AH1 DH ER0   ?}|F6
+BIWI/wav_trim/F2_34.wav|{IH1 T   IH1 Z   DH AH0   M OW1 S T   D R EH1 D F AH0 L   N UW1 Z   .   L IH1 D IY0 AH0   HH AE1 Z   R AH1 N   AH0 W EY1   W IH1 DH   M IH1 S T ER0   W IH1 K AH0 M   .}|F2
+BIWI/wav_trim/M5_38.wav|{AY1   S P AH0 S IH1 F IH0 K L IY0   R IY0 M AY1 N D AH0 D   HH ER0   B EH1 D S AY2 D   T EY1 B AH0 L   .   AA1 N   DH AH0   K AE2 NG G ER0 UW1   .}|M5
+BIWI/wav_trim/M3_40.wav|{AH0 N D   AY1   L UH1 K   F AO1 R W ER0 D   T UW1   SH EH1 R IH0 NG   DH AE1 T   G R EY1 T   L AY1 F   W IH1 DH   Y UW1   .   TH AE1 NG K   Y UW1   F AO1 R   M EH1 R IY0 IH0 NG   M IY1   .}|M3
+BIWI/wav_trim/M1_39.wav|{D IH1 D   AY1   S AE1 K R AH0 F AY2 S   EH1 V ER0 IY0   B IH1 T   AH1 V   L AH1 V   IH0 N   DH IH1 S   L AY1 F   B IH0 K AO1 Z   AY1   K IH1 L D   AW1 ER0   L IH1 T AH0 L   B R AH1 DH ER0   ?}|M1
+BIWI/wav_trim/F3_37.wav|{W AH1 T   AE1 N   EH1 K S AH0 L AH0 N T   R UW1 M   Y UW1   HH AE1 V   ,   S ER1   .   S AH1 CH   IH0 K S P EH1 N S IH0 V   F ER1 N IH0 SH IH0 NG Z   !}|F3
+BIWI/wav_trim/F5_33.wav|{B AH1 T   HH IY1   S EH1 Z   Y UW1   P L EY1   S OW1   W EH1 L   !}|F5
+BIWI/wav_trim/M5_35.wav|{K AE1 N   Y UW1   D AY1   AH1 V   HH AE1 P IY0 N AH0 S   ?}|M5
+BIWI/wav_trim/F3_36.wav|{HH EH1 V AH0 N   AH0 N D   ER1 TH   !   AA1 R   DH AH0   SH EY1 D Z   AH1 V   P EH1 M B ER0 L IY0   T UW1   B IY1   DH AH1 S   P AH0 L UW1 T AH0 D   ?   N AW1   T EH1 L   M IY1   W AH1 N S   AH0 N D   F AO1 R   AO1 L   ,   AA1 R   Y UW1   EH0 N G EY1 JH D   T UW1   HH IH1 M   ?}|F3
+BIWI/wav_trim/F5_34.wav|{IH1 T   IH1 Z   DH AH0   M OW1 S T   D R EH1 D F AH0 L   N UW1 Z   .   L IH1 D IY0 AH0   HH AE1 Z   R AH1 N   AH0 W EY1   W IH1 DH   M IH1 S T ER0   W IH1 K AH0 M   .}|F5
+BIWI/wav_trim/F6_37.wav|{W AH1 T   AE1 N   EH1 K S AH0 L AH0 N T   R UW1 M   Y UW1   HH AE1 V   ,   S ER1   .   S AH1 CH   IH0 K S P EH1 N S IH0 V   F ER1 N IH0 SH IH0 NG Z   !}|F6
+BIWI/wav_trim/F4_33.wav|{B AH1 T   HH IY1   S EH1 Z   Y UW1   P L EY1   S OW1   W EH1 L   !}|F4
+BIWI/wav_trim/F2_38.wav|{AY1   S P AH0 S IH1 F IH0 K L IY0   R IY0 M AY1 N D AH0 D   HH ER0   B EH1 D S AY2 D   T EY1 B AH0 L   .   AA1 N   DH AH0   K AE2 NG G ER0 UW1   .}|F2
+BIWI/wav_trim/M6_36.wav|{HH EH1 V AH0 N   AH0 N D   ER1 TH   !   AA1 R   DH AH0   SH EY1 D Z   AH1 V   P EH1 M B ER0 L IY0   T UW1   B IY1   DH AH1 S   P AH0 L UW1 T AH0 D   ?   N AW1   T EH1 L   M IY1   W AH1 N S   AH0 N D   F AO1 R   AO1 L   ,   AA1 R   Y UW1   EH0 N G EY1 JH D   T UW1   HH IH1 M   ?}|M6
+BIWI/wav_trim/F7_35.wav|{K AE1 N   Y UW1   D AY1   AH1 V   HH AE1 P IY0 N AH0 S   ?}|F7
+BIWI/wav_trim/F1_34.wav|{IH1 T   IH1 Z   DH AH0   M OW1 S T   D R EH1 D F AH0 L   N UW1 Z   .   L IH1 D IY0 AH0   HH AE1 Z   R AH1 N   AH0 W EY1   W IH1 DH   M IH1 S T ER0   W IH1 K AH0 M   .}|F1
+BIWI/wav_trim/F2_37.wav|{W AH1 T   AE1 N   EH1 K S AH0 L AH0 N T   R UW1 M   Y UW1   HH AE1 V   ,   S ER1   .   S AH1 CH   IH0 K S P EH1 N S IH0 V   F ER1 N IH0 SH IH0 NG Z   !}|F2
+BIWI/wav_trim/F8_37.wav|{W AH1 T   AE1 N   EH1 K S AH0 L AH0 N T   R UW1 M   Y UW1   HH AE1 V   ,   S ER1   .   S AH1 CH   IH0 K S P EH1 N S IH0 V   F ER1 N IH0 SH IH0 NG Z   !}|F8
+BIWI/wav_trim/F2_33.wav|{B AH1 T   HH IY1   S EH1 Z   Y UW1   P L EY1   S OW1   W EH1 L   !}|F2
+BIWI/wav_trim/M2_39.wav|{D IH1 D   AY1   S AE1 K R AH0 F AY2 S   EH1 V ER0 IY0   B IH1 T   AH1 V   L AH1 V   IH0 N   DH IH1 S   L AY1 F   B IH0 K AO1 Z   AY1   K IH1 L D   AW1 ER0   L IH1 T AH0 L   B R AH1 DH ER0   ?}|M2
+BIWI/wav_trim/F2_35.wav|{K AE1 N   Y UW1   D AY1   AH1 V   HH AE1 P IY0 N AH0 S   ?}|F2
+BIWI/wav_trim/F7_34.wav|{IH1 T   IH1 Z   DH AH0   M OW1 S T   D R EH1 D F AH0 L   N UW1 Z   .   L IH1 D IY0 AH0   HH AE1 Z   R AH1 N   AH0 W EY1   W IH1 DH   M IH1 S T ER0   W IH1 K AH0 M   .}|F7
+BIWI/wav_trim/F4_35.wav|{K AE1 N   Y UW1   D AY1   AH1 V   HH AE1 P IY0 N AH0 S   ?}|F4
+BIWI/wav_trim/F3_33.wav|{B AH1 T   HH IY1   S EH1 Z   Y UW1   P L EY1   S OW1   W EH1 L   !}|F3
+BIWI/wav_trim/F5_37.wav|{W AH1 T   AE1 N   EH1 K S AH0 L AH0 N T   R UW1 M   Y UW1   HH AE1 V   ,   S ER1   .   S AH1 CH   IH0 K S P EH1 N S IH0 V   F ER1 N IH0 SH IH0 NG Z   !}|F5
+BIWI/wav_trim/M4_38.wav|{AY1   S P AH0 S IH1 F IH0 K L IY0   R IY0 M AY1 N D AH0 D   HH ER0   B EH1 D S AY2 D   T EY1 B AH0 L   .   AA1 N   DH AH0   K AE2 NG G ER0 UW1   .}|M4
+BIWI/wav_trim/M1_35.wav|{K AE1 N   Y UW1   D AY1   AH1 V   HH AE1 P IY0 N AH0 S   ?}|M1
+BIWI/wav_trim/F7_39.wav|{D IH1 D   AY1   S AE1 K R AH0 F AY2 S   EH1 V ER0 IY0   B IH1 T   AH1 V   L AH1 V   IH0 N   DH IH1 S   L AY1 F   B IH0 K AO1 Z   AY1   K IH1 L D   AW1 ER0   L IH1 T AH0 L   B R AH1 DH ER0   ?}|F7
+BIWI/wav_trim/M4_36.wav|{HH EH1 V AH0 N   AH0 N D   ER1 TH   !   AA1 R   DH AH0   SH EY1 D Z   AH1 V   P EH1 M B ER0 L IY0   T UW1   B IY1   DH AH1 S   P AH0 L UW1 T AH0 D   ?   N AW1   T EH1 L   M IY1   W AH1 N S   AH0 N D   F AO1 R   AO1 L   ,   AA1 R   Y UW1   EH0 N G EY1 JH D   T UW1   HH IH1 M   ?}|M4
+BIWI/wav_trim/F5_35.wav|{K AE1 N   Y UW1   D AY1   AH1 V   HH AE1 P IY0 N AH0 S   ?}|F5
+BIWI/wav_trim/F1_37.wav|{W AH1 T   AE1 N   EH1 K S AH0 L AH0 N T   R UW1 M   Y UW1   HH AE1 V   ,   S ER1   .   S AH1 CH   IH0 K S P EH1 N S IH0 V   F ER1 N IH0 SH IH0 NG Z   !}|F1
+BIWI/wav_trim/M6_39.wav|{D IH1 D   AY1   S AE1 K R AH0 F AY2 S   EH1 V ER0 IY0   B IH1 T   AH1 V   L AH1 V   IH0 N   DH IH1 S   L AY1 F   B IH0 K AO1 Z   AY1   K IH1 L D   AW1 ER0   L IH1 T AH0 L   B R AH1 DH ER0   ?}|M6
+BIWI/wav_trim/M1_34.wav|{IH1 T   IH1 Z   DH AH0   M OW1 S T   D R EH1 D F AH0 L   N UW1 Z   .   L IH1 D IY0 AH0   HH AE1 Z   R AH1 N   AH0 W EY1   W IH1 DH   M IH1 S T ER0   W IH1 K AH0 M   .}|M1
+BIWI/wav_trim/F4_40.wav|{AH0 N D   AY1   L UH1 K   F AO1 R W ER0 D   T UW1   SH EH1 R IH0 NG   DH AE1 T   G R EY1 T   L AY1 F   W IH1 DH   Y UW1   .   TH AE1 NG K   Y UW1   F AO1 R   M EH1 R IY0 IH0 NG   M IY1   .}|F4
+BIWI/wav_trim/F7_37.wav|{W AH1 T   AE1 N   EH1 K S AH0 L AH0 N T   R UW1 M   Y UW1   HH AE1 V   ,   S ER1   .   S AH1 CH   IH0 K S P EH1 N S IH0 V   F ER1 N IH0 SH IH0 NG Z   !}|F7
+BIWI/wav_trim/F6_33.wav|{B AH1 T   HH IY1   S EH1 Z   Y UW1   P L EY1   S OW1   W EH1 L   !}|F6
+BIWI/wav_trim/M3_36.wav|{HH EH1 V AH0 N   AH0 N D   ER1 TH   !   AA1 R   DH AH0   SH EY1 D Z   AH1 V   P EH1 M B ER0 L IY0   T UW1   B IY1   DH AH1 S   P AH0 L UW1 T AH0 D   ?   N AW1   T EH1 L   M IY1   W AH1 N S   AH0 N D   F AO1 R   AO1 L   ,   AA1 R   Y UW1   EH0 N G EY1 JH D   T UW1   HH IH1 M   ?}|M3
