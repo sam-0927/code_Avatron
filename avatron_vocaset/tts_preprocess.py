@@ -1,5 +1,5 @@
 import os
-from data import vocaset, vctk, libritts
+from data import dataset_preprocess
 import hparams as hp
 
 def write_metadata(train, val, out_dir):
@@ -27,9 +27,7 @@ def main():
     if not os.path.exists(wav_out_dir):
         os.makedirs(wav_out_dir, exist_ok=True)
 
-    vocaset.build_from_path(out_dir, in_dir)
-    vctk.build_from_path(out_dir, in_dir)
-    libritts.build_from_path(out_dir, in_dir)
+    dataset_preprocess.build_from_path(out_dir, in_dir)
    
 if __name__ == "__main__":
     main()
